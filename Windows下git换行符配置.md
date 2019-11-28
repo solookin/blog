@@ -1,4 +1,3 @@
-#Windows下git换行符配置
 
 为了最大限度兼容macOS,windows以及Linux，需要：
 
